@@ -31,11 +31,11 @@
   {
   "product_name": "Prospect Heights-54",
   "brand_name": "Main And Central",
-  "graphic_name": "",
+  "graphic_name": "Prospect Heights-54",
   "cost": "60.00",
   "msrp": "85.00",
-  "quantity_onhand": "",
-  "quantity_onback": "",
+  "quantity_onhand": "42",
+  "quantity_onback": "11",
   "description": "The Main + Central Prospect glasses have the perfect balance of simplicity and style, so you can show off your personality while still rocking a subtle look."
 },
   {
@@ -84,8 +84,8 @@
   "graphic_name": "Roundabout.png",
   "cost": "200.00",
   "msrp": "221.00",
-  "quantity_onhand": "",
-  "quantity_onback": "",
+  "quantity_onhand": "22",
+  "quantity_onback": "74",
   "description": "These acetate sunnies with rounded lenses are a fresh take on the iconic brand. Metal rivet wingtip detail, and the iconic logo embossed on the temple, complete the look."
 },
   {
@@ -104,8 +104,8 @@
   "graphic_name": "RB4246-51.png",
   "cost": "210.00",
   "msrp": "221.00",
-  "quantity_onhand": "",
-  "quantity_onback": "",
+  "quantity_onhand": "59",
+  "quantity_onback": "31",
   "description": "These deep-base rounded sunglasses from Ray-Ban flatter tapered jaws, angular features, and low brows.The high-set bridge acommodates a wider range of nose shapes and sizes, while its firm wiry frame arms sit comfortably on medium faces."
 },
   {
