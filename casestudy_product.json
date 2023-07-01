@@ -1,15 +1,55 @@
 [{
-  "product_name": "product",
-  "brand_name": "brand",
+  "product_name": "Randwick-52",
+  "brand_name": "Main And Central",
   "graphic_name": "",
-  "cost": "12.31",
-  "msrp": "",
+  "cost": "65.00",
+  "msrp": "70.00",
   "quantity_onhand": "",
   "quantity_onback": "",
-  "description": ""
+  "description": "Classic and characterful, the Randwick frames from Main + Central are a great choice for anyone who has a soft spot for understated retro styling."
 },
 {
-  "product_name": "",
+  "product_name": "Brunswick-55",
+  "brand_name": "Main And Central",
+  "graphic_name": "",
+  "cost": "60.00",
+  "msrp": "93.00",
+  "quantity_onhand": "",
+  "quantity_onback": "",
+  "description": "The Main + Central Brunswick frames bring a hint of geek-chic to the classic aviator shape, thanks to the half-rim frames and thin metal arms."
+},
+  {
+  "product_name": "Uptown-51",
+  "brand_name": "Main And Central",
+  "graphic_name": "",
+  "cost": "60.00",
+  "msrp": "93.00",
+  "quantity_onhand": "",
+  "quantity_onback": "",
+  "description": "Make a statement while maintaining your low-key vibe in the Main + Central Uptown glasses."
+},
+  {
+  "product_name": "Prospect Heights-54",
+  "brand_name": "Main And Central",
+  "graphic_name": "",
+  "cost": "60.00",
+  "msrp": "85.00",
+  "quantity_onhand": "",
+  "quantity_onback": "",
+  "description": "The Main + Central Prospect glasses have the perfect balance of simplicity and style, so you can show off your personality while still rocking a subtle look."
+},
+  {
+  "product_name": "Seaholme-50",
+  "brand_name": "Main And Central",
+  "graphic_name": "",
+  "cost": "50.00",
+  "msrp": "70.00",
+  "quantity_onhand": "",
+  "quantity_onback": "",
+  "description": "Bring a hint of retro flair to your wardrobe with the Seaholme glasses from Main + Central."
+},
+  {
+  "product_name": "Ray-Ban",
   "brand_name": "",
   "graphic_name": "",
   "cost": "",
@@ -20,6 +60,46 @@
 },
   {
   "product_name": "",
+  "brand_name": "Ray-Ban",
+  "graphic_name": "",
+  "cost": "",
+  "msrp": "",
+  "quantity_onhand": "",
+  "quantity_onback": "",
+  "description": ""
+},
+  {
+  "product_name": "",
+  "brand_name": "Ray-Ban",
+  "graphic_name": "",
+  "cost": "",
+  "msrp": "",
+  "quantity_onhand": "",
+  "quantity_onback": "",
+  "description": ""
+},
+  {
+  "product_name": "",
+  "brand_name": "Ray-Ban",
+  "graphic_name": "",
+  "cost": "",
+  "msrp": "",
+  "quantity_onhand": "",
+  "quantity_onback": "",
+  "description": ""
+},
+  {
+  "product_name": "",
+  "brand_name": "Ray-Ban",
+  "graphic_name": "",
+  "cost": "",
+  "msrp": "",
+  "quantity_onhand": "",
+  "quantity_onback": "",
+  "description": ""
+},
+  {
+  "product_name": "Oakley",
   "brand_name": "",
   "graphic_name": "",
   "cost": "",
@@ -30,7 +110,7 @@
 },
   {
   "product_name": "",
-  "brand_name": "",
+  "brand_name": "Oakley",
   "graphic_name": "",
   "cost": "",
   "msrp": "",
@@ -40,7 +120,7 @@
 },
   {
   "product_name": "",
-  "brand_name": "",
+  "brand_name": "Oakley",
   "graphic_name": "",
   "cost": "",
   "msrp": "",
@@ -50,7 +130,7 @@
 },
   {
   "product_name": "",
-  "brand_name": "",
+  "brand_name": "Oakley",
   "graphic_name": "",
   "cost": "",
   "msrp": "",
@@ -60,87 +140,7 @@
 },
   {
   "product_name": "",
-  "brand_name": "",
-  "graphic_name": "",
-  "cost": "",
-  "msrp": "",
-  "quantity_onhand": "",
-  "quantity_onback": "",
-  "description": ""
-},
-  {
-  "product_name": "",
-  "brand_name": "",
-  "graphic_name": "",
-  "cost": "",
-  "msrp": "",
-  "quantity_onhand": "",
-  "quantity_onback": "",
-  "description": ""
-},
-  {
-  "product_name": "",
-  "brand_name": "",
-  "graphic_name": "",
-  "cost": "",
-  "msrp": "",
-  "quantity_onhand": "",
-  "quantity_onback": "",
-  "description": ""
-},
-  {
-  "product_name": "",
-  "brand_name": "",
-  "graphic_name": "",
-  "cost": "",
-  "msrp": "",
-  "quantity_onhand": "",
-  "quantity_onback": "",
-  "description": ""
-},
-  {
-  "product_name": "",
-  "brand_name": "",
-  "graphic_name": "",
-  "cost": "",
-  "msrp": "",
-  "quantity_onhand": "",
-  "quantity_onback": "",
-  "description": ""
-},
-  {
-  "product_name": "",
-  "brand_name": "",
-  "graphic_name": "",
-  "cost": "",
-  "msrp": "",
-  "quantity_onhand": "",
-  "quantity_onback": "",
-  "description": ""
-},
-  {
-  "product_name": "",
-  "brand_name": "",
-  "graphic_name": "",
-  "cost": "",
-  "msrp": "",
-  "quantity_onhand": "",
-  "quantity_onback": "",
-  "description": ""
-},
-  {
-  "product_name": "",
-  "brand_name": "",
-  "graphic_name": "",
-  "cost": "",
-  "msrp": "",
-  "quantity_onhand": "",
-  "quantity_onback": "",
-  "description": ""
-},
-  {
-  "product_name": "",
-  "brand_name": "",
+  "brand_name": "Oakley",
   "graphic_name": "",
   "cost": "",
   "msrp": "",
